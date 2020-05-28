@@ -1,4 +1,6 @@
-# WorkDayScheduler
+# Work Day Scheduler
+
+Deployed Link: https://mmoncayo.github.io/WorkDayPlanner/
 
 This day planner was created to form a typical work scheduler from the business hours of 9am-5pm. Each hour is given its own row with the option to write in the activity/assignment to complete and the user must click the save icon in order for the entry to save. 
 
